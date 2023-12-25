@@ -1,4 +1,4 @@
-.row img {
-    width: 100px;
-    height: 100px;
+.icons1 {
+    display: flex;
+    justify-content: center;
 }
